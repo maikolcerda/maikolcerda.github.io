@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frances Rosenbluth | Maikol Cerda</title>
+    <link>https://maikolcerda.github.io/author/frances-rosenbluth/</link>
+      <atom:link href="https://maikolcerda.github.io/author/frances-rosenbluth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frances Rosenbluth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 22:55:24 +0100</lastBuildDate>
+    <image>
+      <url>https://maikolcerda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Frances Rosenbluth</title>
+      <link>https://maikolcerda.github.io/author/frances-rosenbluth/</link>
+    </image>
+    
+    <item>
+      <title>4. Weak Parties, the Rise of Safe Seats, and Dysfunction in the U.S. Congress</title>
+      <link>https://maikolcerda.github.io/project/4.-safeseats/</link>
+      <pubDate>Mon, 02 Dec 2019 22:55:24 +0100</pubDate>
+      <guid>https://maikolcerda.github.io/project/4.-safeseats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5. Democratic Institutions and Social Welfare</title>
+      <link>https://maikolcerda.github.io/project/5.-democracy/</link>
+      <pubDate>Mon, 02 Dec 2019 22:55:24 +0100</pubDate>
+      <guid>https://maikolcerda.github.io/project/5.-democracy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
