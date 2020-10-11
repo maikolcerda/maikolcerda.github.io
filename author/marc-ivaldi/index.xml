@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Ivaldi | Maikol Cerda</title>
+    <link>https://maikolcerda.github.io/author/marc-ivaldi/</link>
+      <atom:link href="https://maikolcerda.github.io/author/marc-ivaldi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Ivaldi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 22:55:24 +0100</lastBuildDate>
+    <image>
+      <url>https://maikolcerda.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marc Ivaldi</title>
+      <link>https://maikolcerda.github.io/author/marc-ivaldi/</link>
+    </image>
+    
+    <item>
+      <title>6.- The impact of cooperation on investment: an application of network sharing agreements</title>
+      <link>https://maikolcerda.github.io/project/6.-networks/</link>
+      <pubDate>Mon, 02 Dec 2019 22:55:24 +0100</pubDate>
+      <guid>https://maikolcerda.github.io/project/6.-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
